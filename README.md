@@ -65,18 +65,18 @@ Simplifies complex medical text, PDFs and images to B1 reading level with multi-
 </td>
 <td width="50%" valign="top">
 
-#### 🧬 [med-profile-gen](https://github.com/Thijsn04/med-profile-gen)
-**AI patient-record generator**
+#### 🧬 [SynthFHIR](https://github.com/Thijsn04/SynthFHIR)
+**Synthetic FHIR patient-data generator**
 
-Generates realistic patient dossiers and lab values for the communication trainings of medical students. Built and validated for real teaching use.
+Generates fully relational, realistic clinical datasets across 15+ FHIR R4/R5 resource types — no APIs, no real patient data. Safe test data for healthcare devs.
 
-`Python` · `LLM` · `Synthetic data` · `Healthcare`
+`Python` · `HL7 FHIR` · `FastAPI` · `Synthetic data`
 
 </td>
 </tr>
 </table>
 
-<sub>More on GitHub: <a href="https://github.com/Thijsn04/SynthFHIR">SynthFHIR</a> (synthetic HL7 FHIR records) · <a href="https://github.com/Thijsn04/AppleHealthDashboard">AppleHealthDashboard</a> (local health analytics) · <a href="https://github.com/Thijsn04/QuestLog">QuestLog</a> (AI goal tracking)</sub>
+<sub>More on GitHub: <a href="https://github.com/Thijsn04/Momentum">Momentum</a> (self-improvement PWA) · <a href="https://github.com/Thijsn04/AppleHealthDashboard">AppleHealthDashboard</a> (local health analytics) · <a href="https://github.com/Thijsn04/QuestLog">QuestLog</a> (AI goal tracking)</sub>
 
 ---
 
