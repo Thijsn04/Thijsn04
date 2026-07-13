@@ -120,12 +120,7 @@ Capacity and appointment planning for the Rheumatology and Gastroenterology depa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thijsn04&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=Thijsn04&theme=midnight-purple&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thijsn04&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="150"/>
 
 <br/><br/>
 
