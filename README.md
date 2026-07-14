@@ -20,10 +20,10 @@ I'm a final-year **Medical Informatics** student at the University of Amsterdam 
 
 Most of my work sits where **clinical domain knowledge meets software engineering**: EHR systems, HL7 FHIR data, LLM pipelines that turn messy medical language into something people can actually use, and the self-hosted infrastructure to run it all in production.
 
-- 🏥 **Healthcare tech** — EHR systems, synthetic FHIR data, clinical text simplification, grounded in real hospital workflows
-- 🤖 **Applied AI** — LLM pipelines, structured generation, validation-first design (Python · Gemini · LiteLLM)
-- ⚙️ **Full stack & infra** — FastAPI · PostgreSQL · React/Next.js · Docker, on self-hosted ARM64 cloud
-- 🤝 **Open to** — freelance work via Lythos, healthcare-tech collaborations, and interesting engineering roles
+- 🏥 **Healthcare tech:** EHR systems, synthetic FHIR data, clinical text simplification, grounded in real hospital workflows
+- 🤖 **Applied AI:** LLM pipelines, structured generation, validation-first design (Python · Gemini · LiteLLM)
+- ⚙️ **Full stack & infra:** FastAPI · PostgreSQL · React/Next.js · Docker, on self-hosted ARM64 cloud
+- 🤝 **Open to:** freelance work via Lythos, healthcare-tech collaborations, and interesting engineering roles
 
 ---
 
@@ -36,7 +36,7 @@ Most of my work sits where **clinical domain knowledge meets software engineerin
 #### 🏥 [Zantrix](https://github.com/Thijsn04/Zantrix)
 **Open-source Electronic Health Record system**
 
-An inspectable, modular EHR built to open up a space that's normally locked behind proprietary vendors — informed by first-hand experience with hospital information systems.
+An inspectable, modular EHR built to open up a space that's normally locked behind proprietary vendors. Informed by first-hand experience with hospital information systems.
 
 `Java` · `EHR` · `GDPR/AVG-aware` · `Open source`
 
@@ -68,7 +68,7 @@ Simplifies complex medical text, PDFs and images to B1 reading level with multi-
 #### 🧬 [SynthFHIR](https://github.com/Thijsn04/SynthFHIR)
 **Synthetic FHIR patient-data generator**
 
-Generates fully relational, realistic clinical datasets across 15+ FHIR R4/R5 resource types — no APIs, no real patient data. Safe test data for healthcare devs.
+Generates fully relational, realistic clinical datasets across 27+ FHIR R4/R5 resource types with no APIs and no real patient data. Safe test data for healthcare devs.
 
 `Python` · `HL7 FHIR` · `FastAPI` · `Synthetic data`
 
@@ -99,11 +99,11 @@ Generates fully relational, realistic clinical datasets across 15+ FHIR R4/R5 re
 
 ### 💻 Experience
 
-**🚀 Founder & Software Engineer — [Lythos](https://lythos.nl)** · `2026 — Present`  
-Run a software studio delivering freelance client work and my own AI-driven products. I own the full lifecycle: architecture, agent-assisted development, deployment, and iteration — on self-hosted production infrastructure (Oracle Cloud ARM64, PostgreSQL, Authentik SSO, Traefik, Cloudflare).
+**🚀 Founder & Software Engineer at [Lythos](https://lythos.nl)** · `2026 - Present`  
+Run a software studio delivering freelance client work and my own AI-driven products. I own the full lifecycle: architecture, agent-assisted development, deployment, and iteration, on self-hosted production infrastructure (Oracle Cloud ARM64, PostgreSQL, Authentik SSO, Traefik, Cloudflare).
 
-**🏥 ICM Planner & Polyclinic Assistant — Spaarne Gasthuis** · `2026 — Present`  
-Capacity and appointment planning for the Rheumatology and Gastroenterology departments. Analyzed and improved internal staffing-measurement tooling in Excel/VBA, catching data-loss and date-logic defects — bridging clinical operations with engineering.
+**🏥 ICM Planner & Polyclinic Assistant at Spaarne Gasthuis** · `2026 - Present`  
+Capacity and appointment planning for the Rheumatology and Gastroenterology departments. Analyzed and improved internal staffing-measurement tooling in Excel/VBA, catching data-loss and date-logic defects, bridging clinical operations with engineering.
 
 ---
 
@@ -132,6 +132,6 @@ Capacity and appointment planning for the Rheumatology and Gastroenterology depa
 
 <div align="center">
 
-<sub>Building at the intersection of healthcare and code — one honest project at a time.</sub>
+<sub>Building at the intersection of healthcare and data - one project at a time.</sub>
 
 </div>
