@@ -16,7 +16,7 @@
 
 ### 👋 About
 
-I'm a final-year **Medical Informatics** student at the University of Amsterdam and the founder of **[Lythos](https://lythos.nl)** — a small software studio where I build AI-driven products for the Dutch healthcare and consumer market.
+I'm a final-year **Medical Informatics** student at the University of Amsterdam and the founder of **[Lythos](https://lythos.nl)** a small software studio where I build AI-driven products for the Dutch healthcare and consumer market.
 
 Most of my work sits where **clinical domain knowledge meets software engineering**: EHR systems, HL7 FHIR data, LLM pipelines that turn messy medical language into something people can actually use, and the self-hosted infrastructure to run it all in production.
 
@@ -43,10 +43,10 @@ An inspectable, modular EHR built to open up a space that's normally locked behi
 </td>
 <td width="50%" valign="top">
 
-#### ✈️ [LifeTravel](https://lythos.nl) · *Lythos*
-**AI travel-advisory platform** *(client product)*
+#### ✈️ [LifeTravel](https://www.lifetravel.app) · *Lythos*
+**Travel Planner platform** *(client product)*
 
-A production travel-advisory system with itinerary management and automated PDF generation, running on self-hosted infrastructure.
+A production travel planner system with itinerary management and automated PDF generation, running on self-hosted infrastructure.
 
 `TypeScript` · `FastAPI` · `PostgreSQL` · `Docker`
 
@@ -56,11 +56,11 @@ A production travel-advisory system with itinerary management and automated PDF 
 <td width="50%" valign="top">
 
 #### 💬 [MediClear-AI](https://github.com/Thijsn04/MediClear-AI)
-**Clinical text → plain language**
+**Clinical text to plain language**
 
-Simplifies complex medical text, PDFs and images to B1 reading level with multi-language support and text-to-speech, powered by Gemini 2.5.
+Simplifies complex medical text, PDFs and images to B1 reading level with multi-language support and text-to-speech, powered by AI models.
 
-`Python` · `Gemini 2.5` · `Multimodal` · `Health literacy`
+`Python` · `Healthtech` · `Multimodal` · `Health literacy`
 
 </td>
 <td width="50%" valign="top">
